@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פאנוצו מציעה סדנאות בישול איטלקי אינטימיות וקייטרינג חלבי יוקרתי לארגונים ולקוחות פרטיים. גלו עולם של טעמים אותנטיים ולמידה מעשית במטבח.
+
+### סדנאות
+https://example.com/workshops
+מפיצה נפוליטנית ועד פרלינים משוקולד - סדנאות בישול אינטימיות בהנחיה מקצועית. פסטה, סושי, מטבח אסייתי, לחם מחמצת ועוד. הזמינו עכשיו!
+
+### קייטרינג
+https://example.com/catering
+שירותי קייטרינג איטלקי חלבי יוקרתי לארגונים ואירועים פרטיים. תפריטים מעודנים, מרכיבים איכוtiים וטעמים אותנטיים שיהפכו כל אירוע לבלתי נשכח.
+
+### צור קשר
+https://example.com/contact
+מעוניינים בסדנת בישול מיוחדת או קייטרינג איטלקי לאירוע הבא? צרו קשר עם פאנוצו והפכו את האירוע שלכם לחוויה גסטרונומית בלתי נשכחת.
+
+### Products
+https://example.com/products
+המוצרים שלנו - פאנוצו
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - פאנוצו
+
+### Category
+https://example.com/category/:slug
+מוצרים - פאנוצו
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
